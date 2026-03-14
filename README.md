@@ -1,8 +1,10 @@
 # Calculator
-目前更新到了 dc-01w56a预览版本，点击“Releases”选择对应的版本，这里建议选最新版本，v1.0.3正在开发中……  /Currently updated to the dc-01w56a preview version. Click 'Releases' to select the corresponding version. It is recommended to choose the latest version here, v1.0.3 is under development...
+目前更新到了 dc-01w56a预览版本，点击“Releases”选择对应的版本，这里建议选最新版本，v1.0.3正在开发中……  
+/Currently updated to the dc-01w56a preview version. Click 'Releases' to select the corresponding version. It is recommended to choose the latest version here, v1.0.3 is under development...
 
 # Update
-Turbowarp/02Engine计算器扩展的“dc-01w56a”添加了一些字符串积木，目前只有3个，如果有兴趣可以猜一下“v1.0.3”版本的字符串积木有什么  /The 'dc-01w56a' of this Turbowarp calculator extension has added some string blocks, currently only 3. If interested, you can guess what string blocks are in version 'v1.0.3'.
+Turbowarp/02Engine计算器扩展的“dc-01w56a”添加了一些字符串积木，目前只有3个，如果有兴趣可以猜一下“v1.0.3”版本的字符串积木有什么  
+/The 'dc-01w56a' of this Turbowarp calculator extension has added some string blocks, currently only 3. If interested, you can guess what string blocks are in version 'v1.0.3'.
 
 # Function introduction (some commonly used ones are listed, the rest are in the file)
 ==基础运算:“+”、“-”、“*”、“/”、“%”==
