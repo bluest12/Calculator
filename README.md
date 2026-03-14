@@ -37,4 +37,4 @@ The "%" operator currently cannot handle fractions or decimals, for example: "10
 "≤" is used quite often, for example "0.5≤1/2" results in "true".
 "≥" is similar, for example "1/2≥0.5" results in "true".
 
-The rest will not be mentioned here. After importing, click to open the document, and you can understand it yourself.
+The rest will not be mentioned here. After importing, click to open the document, and you can understand it yourself. 
