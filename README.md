@@ -1,11 +1,11 @@
 # Calculator (计算器)
-目前更新到了 dc-01w56a预览版本，点击“Releases”选择对应的版本，这里建议选最新版本，v1.0.3正在开发中……  
-/Currently updated to the dc-01w56a preview version. Click 'Releases' to select the corresponding version. It is recommended to choose the latest version here, v1.0.3 is under development...
-
+目前更新到了 26g41s节日版本（虽然是补档），点击“Releases”选择对应的版本，这里建议选最新版本，v1.0.3正在开发中……  
+/Currently updated to the 26g41s holiday version (although it's a patch). Click "Releases" to select the corresponding version. It's recommended to choose the latest version here. v1.0.3 is under development...
 # Update (更新)
-Turbowarp/02Engine计算器扩展的“dc-01w56a”添加了一些字符串积木，目前只有3个，如果有兴趣可以猜一下“v1.0.3”版本的字符串积木有什么  
-/The 'dc-01w56a' of this Turbowarp calculator extension has added some string blocks, currently only 3. If interested, you can guess what string blocks are in version 'v1.0.3'.
-
+【补档】“26g41s”不明白？我先告诉你他的含义，先打开链接：https://www.bilibili.com/video/BV1GJ411x7h7/?spm_id_from=333.337.search-card.all.click
+意思是“26g”就是2026年，“41s”就是4月1日，刚刚打开那个链接的人是不是被我逗了？没关系，愚人节快乐！
+/[Supplement] Don't understand '26g41s'? I'll tell you its meaning first. Open this link: https://www.bilibili.com/video/BV1GJ411x7h7/?spm_id_from=333.337.search-card.all.click
+It means '26g' is the year 2026, and '41s' is April 1st. Did anyone who just opened that link get tricked by me? It's okay, Happy April Fool's Day!
 # Function introduction (some commonly used ones are listed, the rest are in the file) (功能介绍（列出了一些常用的，其他的在文件中）)
 ==基础运算:“+”、“-”、“*”、“/”、“%”==
 
